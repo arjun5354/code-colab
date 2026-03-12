@@ -73,7 +73,7 @@ Go to the project directory
 ## Backend Setup
 
     npm install
-    npm run start:front
+    npm run server:prod
 
 Server will run on
 
@@ -81,7 +81,7 @@ Server will run on
 
 ## Frontend Setup
 
-    npm run server:prod
+    npm run start:front
 
 Frontend will run on
 
